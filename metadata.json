@@ -1,0 +1,6 @@
+{
+  "name": "Dự đoán Kết quả Học tập ML",
+  "description": "Ứng dụng trắc nghiệm và flashcard tương tác học thuật về Dự đoán sớm kết quả học tập qua Machine Learning",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
